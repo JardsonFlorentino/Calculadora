@@ -33,10 +33,10 @@ Este é um projeto de calculadora desenvolvida com **HTML, CSS e JavaScript puro
 
 ## 🚀 Como rodar
 
-Clone o repositório e abra o `index.html` no navegador.
+Clone o repositório:
 
 ```bash
-git clone https://github.com/JardsonFlorentino/Calculadora ```
+git clone https://github.com/JardsonFlorentino/Calculadora 
 Abra o arquivo index.html no seu navegador.
 
 ## 📁 Estrutura de Pastas
