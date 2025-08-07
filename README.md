@@ -29,13 +29,13 @@ Este é um projeto de calculadora desenvolvida com **HTML, CSS e JavaScript puro
 - 🎨 **CSS3**
 - ⚙️ **JavaScript (ES6+)**
 
+---
 
+## 📦 Como usar
 
-## 🚀 Como rodar
-
-Clone o repositório:
-  ```bash
-    git clone https://github.com/JardsonFlorentino/Calculadora 
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/JardsonFlorentino/CoinVerter
 Abra o arquivo index.html no seu navegador.
 
 ## 📁 Estrutura de Pastas
@@ -48,7 +48,6 @@ Abra o arquivo index.html no seu navegador.
 │ ├── preview.jpg
 │ └── icons, flags etc.
 ```
-
 
 📌 Observações
 
