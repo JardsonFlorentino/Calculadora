@@ -2,6 +2,8 @@
 
 Este é um projeto de calculadora desenvolvida com **HTML, CSS e JavaScript puro**, como parte dos meus estudos de Front-End.
 
+---
+
 ## 🔧 Funcionalidades
 
 - Operações básicas: +, -, *, /
@@ -21,6 +23,8 @@ Este é um projeto de calculadora desenvolvida com **HTML, CSS e JavaScript puro
 - Design responsivo
 - Fundo personalizado com visual moderno (futurista/digital)
 - Estilo minimalista com foco na usabilidade
+
+---
 
   ## 🛠️ Tecnologias Utilizadas
 
